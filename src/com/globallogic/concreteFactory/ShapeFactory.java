@@ -1,8 +1,8 @@
-package com.globallogic.factory;
+package com.globallogic.concreteFactory;
 
-import com.globallogic.concreteclasses.Circle;
-import com.globallogic.concreteclasses.Rectangle;
-import com.globallogic.concreteclasses.Square;
+import com.globallogic.concreteClasses.Circle;
+import com.globallogic.concreteClasses.Rectangle;
+import com.globallogic.concreteClasses.Square;
 import com.globallogic.interfaces.Shape;
 
 public class ShapeFactory {

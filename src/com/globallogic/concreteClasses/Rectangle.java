@@ -1,4 +1,4 @@
-package com.globallogic.concreteclasses;
+package com.globallogic.concreteClasses;
 
 import com.globallogic.interfaces.Shape;
 
